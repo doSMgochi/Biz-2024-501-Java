@@ -36,7 +36,7 @@ git commit -m "처음으로 올리기"
 git push -u origin master
 ```
 
-# 새로운 컴퓨터에 github 환경 설정하기
+## 새로운 컴퓨터에 github 환경 설정하기
 - `git-scm.com` 에 접속하여 `git bash` 다운받기
 - 아무 곳에서나 `git bash shell` 실행하기
 - 접속환경 설정하기
@@ -46,13 +46,13 @@ git config --global user.name doSMgochi
 git config --global user.email aenarchi@gmail.com
 ```
 
-# 다른 컴퓨터에서 `git repository 다운받기(복제하기)`
+## 다른 컴퓨터에서 `git repository 다운받기(복제하기)`
 
 ```bash
 git clone https://github.com/doSMgochi/Biz-2024-501-Java.git
 ```
 
-# 주의사항
+## 주의사항
 - 다른 컴퓨터에서 프로젝트 코드를 변경한 경우 반드시 push 하기
 
 ```bash
