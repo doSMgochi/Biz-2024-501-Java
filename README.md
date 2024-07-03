@@ -42,8 +42,8 @@ git push -u origin master
 - 접속환경 설정하기
 
 ```bash
-git config --global user.name callor
-git config --global user.email callor@callor.com
+git config --global user.name doSMgochi
+git config --global user.email aenarchi@gmail.com
 ```
 
 # 다른 컴퓨터에서 `git repository 다운받기(복제하기)`
