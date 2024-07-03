@@ -39,7 +39,7 @@ public class HelloG {
 		
 		for (int i = 0 ; i < 100 ; i++) {
 			System.out.print(i + 1 + " ");
-			if () {
+			if ((i + 1) % 5 == 0) {
 				System.out.println();
 			}
 		}
