@@ -5,4 +5,5 @@ public interface GamePlayService {
 	public void getWord();
 	public void inputWord();
 	public void score();
+	public void getHint();
 }
